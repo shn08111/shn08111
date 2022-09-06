@@ -1,5 +1,5 @@
 - 👋 Hello! I’m Soh Jeong Yun, and I am an undergraduate student majoring in Computer Science.
-- 👀 I’m interested in Web Design and Cybersecurity.
+- 👀 I’m interested in Web Design, AI and Cybersecurity.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript on my own so that I could create my own websites.
 - 💞️ I love pastries, and I enjoy watching baking videos!
 - 📫 You can reach me through my email: shn08111@gmail.com
