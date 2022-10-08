@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Design, AI and Cybersecurity.
 - 🌱 I’m currently learning HTML, CSS, and JavaScript on my own so that I could create my own websites.
 - 💞️ I love pastries, and I enjoy watching baking videos!
-- 📫 You can reach me through my email: shn08111@gmail.com
 
 <!---
 shn08111/shn08111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
