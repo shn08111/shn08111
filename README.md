@@ -1,5 +1,5 @@
-- 👋 Hello! I’m Soh Jeong Yun, and I am an undergraduate student majoring in Computer Science.
-- 👀 I’m interested in Data Science and Software Design.
+- 👋 Hello! I’m Sohjeong Yun, and I am a new graduate who majored in Computer Science.
+- 👀 I’m currently interested in Cloud Computing and Software Design.
 - 🌱 I aspire to cultivate a programmer's mindset characterized by proficient problem-solving skills.
 - 💞️ I love pastries, and I enjoy watching baking videos!
 
