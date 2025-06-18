@@ -1,7 +1,7 @@
-- 👋 Hello! I’m Sohjeong Yun, and I am a new graduate who majored in Computer Science.
-- 👀 I’m currently interested in Cloud Computing and Software Design.
-- 🌱 I aspire to cultivate a programmer's mindset characterized by proficient problem-solving skills.
-- 💞️ I love pastries, and I enjoy watching baking videos!
+- 👋 Hi, I’m Sohjeong Yun — a Computer Science graduate with a strong interest in Quality Assurance and software testing.
+- 🔍 I’m detail-oriented, organized, and passionate about building reliable, user-friendly software.
+- 🌱 Currently learning manual and automated testing tools (JIRA, Selenium, Postman) as I work toward becoming a QA Engineer.
+- 🐱 Outside of tech, I love watching videos of cats and discovering cozy dessert cafés.
 
 <!---
 shn08111/shn08111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
